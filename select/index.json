@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "From The D 2 The LBC",
+  "base_artist": "Eminem & Snoop Dogg",
+  "createdAt": "2025-12-19T10:36:51.512163Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "From The D 2 The LBC (with Snoop Dogg)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/01_From_The_D_2_The_LBC_(with_Snoop_Dogg)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "From The D 2 The LBC",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/02_From_The_D_2_The_LBC_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "From The D 2 The LBC",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/03_From_The_D_2_The_LBC_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "From The D 2 The LBC (with Snoop Dogg)",
+      "artist": "Eminem & Snoop Dogg",
+      "has_synced": true,
+      "path": "select/04_From_The_D_2_The_LBC_(with_Snoop_Dogg)_Eminem_&_Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "From the D 2 the LBC",
+      "artist": "Eminem feat. Snoop Dogg",
+      "has_synced": true,
+      "path": "select/05_From_the_D_2_the_LBC_Eminem_feat._Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "From the D 2 the LBC (feat. Snoop Dogg)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/06_From_the_D_2_the_LBC_(feat._Snoop_Dogg)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "From The D 2 The LBC (with Snoop Dogg)",
+      "artist": "Eminem, Snoop Dogg",
+      "has_synced": true,
+      "path": "select/07_From_The_D_2_The_LBC_(with_Snoop_Dogg)_Eminem,_Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "From The D 2 The LBC (with Snoop Dogg)",
+      "artist": "Eminem/Snoop Dogg",
+      "has_synced": true,
+      "path": "select/08_From_The_D_2_The_LBC_(with_Snoop_Dogg)_Eminem_Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "From The D 2 The LBC Ft. Snoop Dogg",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/09_From_The_D_2_The_LBC_Ft._Snoop_Dogg_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "From the D to the A (feat. Lil Yachty)",
+      "artist": "Tee Grizzley feat. Lil Yachty",
+      "has_synced": true,
+      "path": "select/10_From_the_D_to_the_A_(feat._Lil_Yachty)_Tee_Grizzley_feat._Lil_Yachty.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "From the D to the A (feat. Lil Yachty)",
+      "artist": "Tee Grizzley",
+      "has_synced": true,
+      "path": "select/11_From_the_D_to_the_A_(feat._Lil_Yachty)_Tee_Grizzley.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "From The D 2 The LBC (with Snoop Dogg)",
+      "artist": "Eminem feat. Snoop Dogg",
+      "has_synced": true,
+      "path": "select/12_From_The_D_2_The_LBC_(with_Snoop_Dogg)_Eminem_feat._Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "From The D 2 The LBC",
+      "artist": "Eminem • Snoop Dogg",
+      "has_synced": true,
+      "path": "select/13_From_The_D_2_The_LBC_Eminem_•_Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "From The D 2 The LBC",
+      "artist": "Eminem, Snoop Dogg",
+      "has_synced": true,
+      "path": "select/14_From_The_D_2_The_LBC_Eminem,_Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "From The D 2 The LBC",
+      "artist": "Eminem ft. Snoop Dogg",
+      "has_synced": true,
+      "path": "select/15_From_The_D_2_The_LBC_Eminem_ft._Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Eminem & Snoop Dogg - From The D 2 The LBC [Official Music Video]",
+      "artist": "EminemMusic",
+      "has_synced": true,
+      "path": "select/16_Eminem_&_Snoop_Dogg_-_From_The_D_2_The_LBC_[Official_Music_Video]_EminemMusic.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "From The D 2 The LBC",
+      "artist": "Eminem & Snoop Dogg",
+      "has_synced": true,
+      "path": "select/17_From_The_D_2_The_LBC_Eminem_&_Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "From The D 2 The LBC (with Snoop Dogg)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/18_From_The_D_2_The_LBC_(with_Snoop_Dogg)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "From The D To The A (feat. Lil Yachty)",
+      "artist": "Tee Grizzley/Lil Yachty",
+      "has_synced": true,
+      "path": "select/19_From_The_D_To_The_A_(feat._Lil_Yachty)_Tee_Grizzley_Lil_Yachty.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "From The D 2 The LBC",
+      "artist": "Eminem & Snoop Dogg",
+      "has_synced": false,
+      "path": "select/pl_01_From_The_D_2_The_LBC_Eminem_&_Snoop_Dogg.txt"
+    }
+  ]
+}
