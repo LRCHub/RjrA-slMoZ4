@@ -1,0 +1,129 @@
+# Eminem & Snoop Dogg – From The D 2 The LBC
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:02.46] Yeah, it's been a minute
+[00:06.66] This probably should've happened a while ago
+[00:09.83] Fuck it, we're here now though, let's go
+[00:13.84] Yeah, man, what the fuck? Yo
+[00:17.04] Yo, Snoop, oh, man
+[00:18.42] Yo, let me see–, let me see them buds
+[00:19.77] I can't even
+[00:20.78] Man, that shit's the size of my hand, Dogg
+[00:22.70] That shit just made me relapse
+[00:23.44] The fuck?
+[00:27.94] 
+[00:24.70] That's how I know that I'm in the studio with the Doggy (where?)
+[00:27.97] In Californ-E, 'cause my homie from Long Beach
+[00:30.66] I always got that bomb weed (that's why)
+[00:32.47] I feel a calm breeze (yeah)
+[00:33.98] Every time I palm trees (get it?) Just like that blonde bleach
+[00:36.24] I went platinum then so did my albums
+[00:54.74] 
+[00:38.20] Calvin's turning me into a zombie
+[00:39.73] 'Cause these buds are like the Hulk
+[00:41.00] They're twice the size that his arm be
+[00:42.92] And that is some strong green (strong green)
+[00:44.53] Got a contact, my contact lenses are foggy
+[00:46.84] I might end up in Walgreen's pharmacy
+[00:48.74] With my arm asleep, gone off lean mixed with Dramamine
+[01:15.74] 
+[00:50.91] I will treat Paula Dean like a fuckin' human pin-ball machine
+[00:53.96] Bouncing balls off her tonsils
+[00:55.28] If y'all are seeking' the smoke, I got all the weed
+[00:57.36] I am a walking motherfuckin' marijuana leaf
+[01:00.49] And I'm here to stay
+[01:01.57] My ring's so definite, my longevity needs a hearing aid (what?)
+[01:04.95] Still wearing Hanes T-shirts, I done bodied some features with legendary names (yeah)
+[01:08.88] Was there when Dre turned The Chronic to monetary gain (woo)
+[01:38.88] 
+[01:12.25] 'Cause dope is addictive, just like they call it marijuana
+[01:15.32] 'Cause like marriage, you wanna marry Jane
+[01:18.22] It's like you and Spider-Man feel the very same (yeah)
+[01:20.58] My adversaries came, but these little degenerates are my lineage
+[01:52.58] 
+[01:23.57] And when it come to pockets, weren't many
+[01:24.54] If any as skinny as mine, bitch, I was penniless
+[01:26.16] Now I'm plenty rich, and this shit don't make any sense
+[01:27.75] I was in the motherfuckin' pinch like a titty twist
+[01:29.24] Now I'm sitting as pretty as each penny is
+[01:30.70] While I'm penning this in the lab on you guinea pigs
+[01:32.16] I'm finna' fool, I'm in effect, give me the semi
+[01:33.51] And when I pull the big guns out that trigger
+[01:56.01] 
+[01:34.87] Pull it, until the motherfuckin' shit runs out of bullets
+[01:36.73] Somebody better call a ambulance (woo)
+[01:38.28] You live, it'll be miraculous
+[01:39.31] I got more hits than a contract killer
+[01:40.84] Like the caterpillars that don't got antennas
+[01:42.22] Other words, I don't got no Goddamn fillers
+[01:43.81] Mt. Westmore, you did not plan for this (nah)
+[01:45.16] From Detroit all the way to Los Angeles (haha, yeah)
+[02:11.16] 
+[01:46.56] So put your doobies high if you reside in 213
+[01:49.25] Let's see them blunts raised (brr)
+[01:52.51] Whether you East Side or West Side of the 313
+[01:55.07] Let's see them guns blaze (brr, brr, brr)
+[02:15.57] 
+[01:58.52] Make money moves like The Matrix
+[01:59.59] Make More Mount, motivation
+[02:00.83] Roll up one, meditation
+[02:01.92] I'm watchin' the moves you make, you might wanna stick to the basics
+[02:04.07] Military mindset, locked in, cocked in, make sure the mission is profitable
+[02:06.99] Ain't no mission impossib-ble
+[02:08.40] One phone call and my monsters'll go
+[02:09.62] Dump phones, hop in a Mazda and go
+[02:11.33] Fuck they, y'all stay, nigga I'm finna go
+[02:31.83] 
+[02:12.72] You think you slick, boy, this Crip
+[02:14.20] You ain't ready take it where I'm finna go
+[02:15.59] Mafia roots, you makin' a mockery of me (what?)
+[02:17.36] A monopoly, stick on my flow
+[02:18.66] My nigga I'm moppin' 'em, slept on my floor
+[02:19.94] Now niggas is copyin'
+[02:20.81] Niggas be opping through all of this opulence
+[02:22.37] Gave me a task, I conquer it
+[02:23.42] This ain't the time for ponderin'
+[02:39.92] 
+[02:25.22] You niggas is slanderin', this real shit, niggas be honorin'
+[02:28.04] You lookin' for followers, and not watchin' my niggas that's followin'
+[02:30.94] Nigga, fuck them likes, I'm yelling like, "What? My niggas young problem"
+[02:33.62] Eastside, Eastside nigga, Eminem, woke the beast up
+[02:35.55] Let y'all ride, now a nigga want it back like the lease up
+[02:37.48] Think it's a game? You gon' see some
+[02:38.23] Ain't no peace, you been missin' a piece of
+[02:59.73] 
+[02:39.86] Nigga popped off, now sheets on 'em
+[02:40.85] Mom all mad, kids all sad, damn, my bad
+[02:43.19] Send a few coins to the coroner
+[02:44.22] Please make a sweet for 'em
+[02:45.06] Nigga, I don't hop on tracks, I leap on 'em
+[02:46.57] In the field with the cleats on 'em
+[02:47.75] Steve Jobs of the cannabis mob
+[02:49.06] It do time, nigga knew it be mine
+[02:49.80] Suge knew I'd go platinum the minute I signed
+[03:12.30] 
+[02:51.67] If you're lookin' for the facts, I'm a nigga to find
+[02:52.73] Young nigga sold crack in the middle of pine
+[02:54.20] In the face of this Crippin'
+[02:55.87] Long Beach, these seas is different
+[02:57.25] Four man with the put on
+[02:58.02] Still gettin' bread with the niggas I put on
+[02:59.70] Yeah, yeah, I put my hood on
+[03:00.95] Shit got cold, I put my hood on, yeah, yeah
+[03:22.45] 
+[03:03.21] Marshall and Calvin, both from the gutters like public housin'
+[03:05.37] Now we're both performin' for hundreds of thousands
+[03:06.91] Wearin' no makeup, but we still be clownin', motherfuckers
+[03:35.91] 
+[03:08.76] So put your doobies high if you reside in 213
+[03:11.08] Let's see them blunts raised (brr)
+[03:14.59] Whether you East Side or West Side of the 313
+[03:16.97] Let's see them guns blaze (brr, brr, brr)
+[03:37.47] 
+[03:20.30] My Detroit niggas, verse everybody
+[03:23.03] My Long Beach niggas, verse everybody
+[03:26.01] My Detroit niggas, leave with a body
+[03:28.71] My Long Beach niggas, shoot up the party
+```
